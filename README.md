@@ -51,7 +51,3 @@ Pass
         Comp Always
         Pass Replace
     }
-
-}
-
-}
