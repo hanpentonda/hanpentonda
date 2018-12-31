@@ -52,12 +52,6 @@ Pass
         Pass Replace
     }
 
-    CGPROGRAM
-    #pragma vertex vert
-    #pragma fragment frag
-    ENDCG
-}
-
 }
 
 }
